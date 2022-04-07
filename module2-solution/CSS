@@ -80,5 +80,6 @@ p {
 
 /********** mobile devices only **********/
 @media (max-width: 767px) {
+}
 */
   
